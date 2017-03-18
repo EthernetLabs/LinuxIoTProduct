@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AFEQA.PcbDoc   11/5/2016  5:03:29 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AFEQA.TXT
+EIA File   : AFEQA.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          25               3.72 Inch (94.60 mm)
+T2        11.81mil (0.29997mm)     Round          2                0.32 Inch (8.09 mm)
+T3        78.74mil (2mm)           Round          4                3.71 Inch (94.23 mm)
+---------------------------------------------------------------------------
+Totals                                            31               7.75 Inch (196.92 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

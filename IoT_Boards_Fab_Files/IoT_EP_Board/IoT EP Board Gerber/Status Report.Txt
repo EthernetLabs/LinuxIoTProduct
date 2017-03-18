@@ -1,0 +1,31 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Testing Layers.PrjPcb]
+   Generated File[8D-4L-1550um.TXT]
+   Generated File[8D-4L-1550um.DRL]
+   Generated File[8D-4L-1550um.TX1]
+   Generated File[8D-4L-1550um.DR1]
+   Generated File[8D-4L-1550um.TX2]
+   Generated File[8D-4L-1550um.DR2]
+   Generated File[8D-4L-1550um.TX3]
+   Generated File[8D-4L-1550um.DR3]
+   Generated File[8D-4L-1550um.TX4]
+   Generated File[8D-4L-1550um.DR4]
+   Generated File[8D-4L-1550um.TX5]
+   Generated File[8D-4L-1550um.DR5]
+   Generated File[8D-4L-1550um.TX6]
+   Generated File[8D-4L-1550um.DR6]
+   Generated File[8D-4L-1550um.TX7]
+   Generated File[8D-4L-1550um.DR7]
+   Generated File[8D-4L-1550um.TX8]
+   Generated File[8D-4L-1550um.DR8]
+   Generated File[8D-4L-1550um.TX9]
+   Generated File[8D-4L-1550um.DR9]
+   Generated File[8D-4L-1550um.LDP]
+   Generated File[8D-4L-1550um.DRR]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 9:48:34 PM On 11/6/2016

@@ -1,0 +1,123 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 8D-4L-1550um.PcbDoc   11/6/2016  9:48:33 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 8D-4L-1550um.TXT
+EIA File   : 8D-4L-1550um.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          368              23.69 Inch (601.71 mm)
+T3        11.81mil (0.29997mm)     Round          3                1.26 Inch (31.90 mm)
+T5        13.78mil (0.35001mm)     Round          8                1.72 Inch (43.62 mm)
+T8        78.74mil (2mm)           Round          4                3.71 Inch (94.23 mm)
+---------------------------------------------------------------------------
+Totals                                            383              30.37 Inch (771.45 mm)
+Layer Pair : Top Layer to GND Layer
+ASCII RoundHoles File : 8D-4L-1550um.TX1
+EIA File   : 8D-4L-1550um.DR1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          286              21.45 Inch (544.76 mm)
+T3        11.81mil (0.29997mm)     Round          33               2.16 Inch (54.74 mm)
+T4        12.99mil (0.32995mm)     Round          13               1.40 Inch (35.49 mm)
+T5        13.78mil (0.35001mm)     Round          31               3.60 Inch (91.55 mm)
+T6        15.75mil (0.40005mm)     Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            364              28.60 Inch (726.54 mm)
+Layer Pair : Top Layer to Power Plane
+ASCII RoundHoles File : 8D-4L-1550um.TX2
+EIA File   : 8D-4L-1550um.DR2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          3                0.89 Inch (22.68 mm)
+T3        11.81mil (0.29997mm)     Round          3                0.45 Inch (11.45 mm)
+T5        13.78mil (0.35001mm)     Round          22               3.14 Inch (79.75 mm)
+---------------------------------------------------------------------------
+Totals                                            28               4.48 Inch (113.88 mm)
+Layer Pair : Top Layer to Internal Routing
+ASCII RoundHoles File : 8D-4L-1550um.TX3
+EIA File   : 8D-4L-1550um.DR3
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          18               2.96 Inch (75.26 mm)
+T3        11.81mil (0.29997mm)     Round          11               1.57 Inch (39.84 mm)
+T5        13.78mil (0.35001mm)     Round          20               2.36 Inch (59.84 mm)
+T7        17.72mil (0.45009mm)     Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            50               6.89 Inch (174.94 mm)
+Layer Pair : Top Layer to GND Layer 2
+ASCII RoundHoles File : 8D-4L-1550um.TX4
+EIA File   : 8D-4L-1550um.DR4
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          6                1.70 Inch (43.15 mm)
+T2        9.84mil (0.24994mm)      Round          2                0.03 Inch (0.72 mm)
+T3        11.81mil (0.29997mm)     Round          4                1.22 Inch (30.90 mm)
+T4        12.99mil (0.32995mm)     Round          1                0.00 Inch (0.00 mm)
+T5        13.78mil (0.35001mm)     Round          4                0.41 Inch (10.51 mm)
+---------------------------------------------------------------------------
+Totals                                            17               3.36 Inch (85.26 mm)
+Layer Pair : GND Layer to Bottom Layer
+ASCII RoundHoles File : 8D-4L-1550um.TX5
+EIA File   : 8D-4L-1550um.DR5
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          2                0.06 Inch (1.58 mm)
+---------------------------------------------------------------------------
+Totals                                            2                0.06 Inch (1.58 mm)
+Layer Pair : Power Plane to Bottom Layer
+ASCII RoundHoles File : 8D-4L-1550um.TX6
+EIA File   : 8D-4L-1550um.DR6
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          14               1.35 Inch (34.29 mm)
+T3        11.81mil (0.29997mm)     Round          5                0.76 Inch (19.31 mm)
+T5        13.78mil (0.35001mm)     Round          2                0.04 Inch (0.96 mm)
+T7        17.72mil (0.45009mm)     Round          4                0.14 Inch (3.48 mm)
+---------------------------------------------------------------------------
+Totals                                            25               2.28 Inch (58.03 mm)
+Layer Pair : Internal Routing to GND Layer 2
+ASCII RoundHoles File : 8D-4L-1550um.TX7
+EIA File   : 8D-4L-1550um.DR7
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T3        11.81mil (0.29997mm)     Round          4                0.94 Inch (23.89 mm)
+---------------------------------------------------------------------------
+Totals                                            4                0.94 Inch (23.89 mm)
+Layer Pair : Internal Routing to Bottom Layer
+ASCII RoundHoles File : 8D-4L-1550um.TX8
+EIA File   : 8D-4L-1550um.DR8
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          3                0.97 Inch (24.65 mm)
+T3        11.81mil (0.29997mm)     Round          21               2.37 Inch (60.28 mm)
+T7        17.72mil (0.45009mm)     Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            25               3.34 Inch (84.94 mm)
+Layer Pair : GND Layer 2 to Bottom Layer
+ASCII RoundHoles File : 8D-4L-1550um.TX9
+EIA File   : 8D-4L-1550um.DR9
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          158              13.87 Inch (352.28 mm)
+T3        11.81mil (0.29997mm)     Round          18               2.57 Inch (65.20 mm)
+T4        12.99mil (0.32995mm)     Round          9                0.38 Inch (9.60 mm)
+T5        13.78mil (0.35001mm)     Round          9                0.53 Inch (13.37 mm)
+T7        17.72mil (0.45009mm)     Round          2                0.21 Inch (5.42 mm)
+---------------------------------------------------------------------------
+Totals                                            196              17.55 Inch (445.87 mm)
+---------------------------------------------------------------------------
+Totals                                            1094             97.89 Inch (2486.37 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

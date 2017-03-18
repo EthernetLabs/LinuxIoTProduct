@@ -1,0 +1,11 @@
+Layer Pairs Export File for PCB: C:\Users\sanwal\Desktop\Final Version IoT EP Board\Final Version IoT EP Board\8D-4L-1550um.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=8d-4l-1550um.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_GND_Blind_Vias|DrillFile=dr1|LayerPairs=gtl,g1
+LayersSetName=Top_Power Plane_Blind_Vias|DrillFile=dr2|LayerPairs=gtl,g1,g2
+LayersSetName=Top_Internal Routing_Blind_Vias|DrillFile=dr3|LayerPairs=gtl,g1,g3
+LayersSetName=Top_GND2_Blind_Vias|DrillFile=dr4|LayerPairs=gtl,g1,g3,g4
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=dr5|LayerPairs=g1,g3,g4,g2,gbl
+LayersSetName=Power Plane_Bot_Blind_Vias|DrillFile=dr6|LayerPairs=g3,g4,g2,gbl
+LayersSetName=Internal Routing_GND2_Burried_Vias|DrillFile=dr7|LayerPairs=g3,g4
+LayersSetName=Internal Routing_Bot_Blind_Vias|DrillFile=dr8|LayerPairs=g3,g4,gbl
+LayersSetName=GND2_Bot_Blind_Vias|DrillFile=dr9|LayerPairs=g4,gbl
